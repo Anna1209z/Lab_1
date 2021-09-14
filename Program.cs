@@ -7,6 +7,7 @@ namespace lab_1_ann
         static void Main(string[] args)
         {
             Console.WriteLine("Привет мир, меня звать Аня!");
+            Console.WriteLine("Я создала новый бранч под именем Ann");
         }
     }
 }

@@ -6,7 +6,7 @@ namespace lab_1_ann
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Привет мир, меня звать Аня!");
         }
     }
 }
